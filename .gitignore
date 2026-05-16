@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+
+logs/
+chroma_db/
+md5.text
+
+.env
+.env.*
+!.env.example
+
+.DS_Store
+.vscode/
+.idea/
